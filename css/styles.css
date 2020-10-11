@@ -748,7 +748,7 @@ img {
 }
 
 .footer-contacts {
-  display: flexbox;
+  display: flex;
   flex-direction: column;
   width: 230px;
   margin-right: 70px;
